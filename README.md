@@ -55,3 +55,6 @@ python3 src/experiments/01_eval_models.py \
 ```
 
 where \<WRN_TXT_PATH\> should point to a folder containing the path to the trained WRN.
+
+## References
+Our code is mainly based on [`TST and V-TST`](https://github.com/MJordahn/Decoupled-Layers-for-Calibrated-NNs). Thanks to the authors!
